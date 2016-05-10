@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="LifeHistory/LifeHistory.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LifeHistory/MainForm.Designer.cs">
+    <Files>
+      <File FileName="LifeHistory/Factories/StatistiqueFactory.cs" Line="1" Column="1" />
+      <File FileName="LifeHistory/MainForm.Designer.cs" Line="225" Column="73" />
+      <File FileName="LifeHistory/MainForm.cs" Line="1" Column="1" />
+      <File FileName="LifeHistory/MainForm.resx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LifeHistory>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="Défaut (Personnaliser)" Id="0a3b9bee-f6f9-4dcd-8918-cba87c8910bf" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value DisableAIO="True" NoSmp="True" XExceptions="True" XDebug="True" NoLlvm="True" Desktop="True" ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.LifeHistory>
+</Properties>

@@ -1,0 +1,12 @@
+D:\Projets VS\LifeHistory\LifeHistory\bin\Release\LifeHistory.exe
+D:\Projets VS\LifeHistory\LifeHistory\bin\Release\LifeHistory.pdb
+D:\Projets VS\LifeHistory\LifeHistory\bin\Release\System.Data.SqlServerCe.dll
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.SearchForm.resources
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.DetailForm.resources
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.MainForm.resources
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.Properties.Resources.resources
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.StatistiqueForm.resources
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.csproj.GenerateResource.Cache
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.exe
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.pdb
+D:\Projets VS\LifeHistory\LifeHistory\obj\Release\LifeHistory.csprojResolveAssemblyReference.cache

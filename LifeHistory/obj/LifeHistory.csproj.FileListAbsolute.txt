@@ -1,0 +1,12 @@
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\bin\Debug\LifeHistory.exe
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\bin\Debug\LifeHistory.pdb
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\LifeHistory.MainForm.resources
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\LifeHistory.Properties.Resources.resources
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\LifeHistory.csproj.GenerateResource.Cache
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\LifeHistory.exe
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\LifeHistory.pdb
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\LifeHistory.DetailForm.resources
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\LifeHistory.StatistiqueForm.resources
+C:\Users\Zoid\Documents\Visual Studio 2005\Projects\LifeHistory\LifeHistory\obj\Debug\LifeHistory.SearchForm.resources
